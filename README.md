@@ -1,5 +1,4 @@
-To help you document your DSA Practice Platform, here is a professional and clear README.md structure. This includes the commands to start, stop, and manage your polyglot worker cluster.
-README.md
+
 🚀 CodeForge: Polyglot DSA Practice Platform
 A high-performance microservices platform for practicing Data Structures and Algorithms. The system supports multiple languages (Java, Python, JavaScript) using a distributed worker architecture powered by Apache Kafka.
 🏗️ Project Architecture
